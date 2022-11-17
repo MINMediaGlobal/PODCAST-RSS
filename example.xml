@@ -12,8 +12,8 @@
         <managingEditor>john@example.com (John Doe)</managingEditor>
         <webMaster>support@example.com (Tech Support)</webMaster>
         <image>
-            <url>https://example.com/images/pci_avatar-massive.jpg</url>
-            <title>Podcast Feed Template</title>
+            <url>https://raw.githubusercontent.com/MINMediaGlobal/PODCAST-RSS/main/D.png</url>
+            <title>POSTER</title>
             <link>https://example.com/show</link>
         </image>
 
